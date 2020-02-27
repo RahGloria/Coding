@@ -1,8 +1,9 @@
 ## INVESTIGATING BARDEEN POTENTIAL IN MODIFIED GRAVITY USING DARK MATTER ONLY SIMULATION
 #### by Gloria Raharimbolamena 
-#### (Under the Supervision of Dr. Mikaharisetry RAFIEFERANTSOA and Dr. Hagatiana Sambatra ANDRIANOMENA)
+#### Under the Supervision of Dr. Mikaharisetry RAFIEFERANTSOA and Dr. Hagatiana Sambatra ANDRIANOMENA
 Dissertation submitted in partial fulfilment of the requirements for the degree of MASTER OF SCIENCES (MASTER II) IN PHYSICS
 University of Antananarivo
-...
+
+
 The recent observational data in cosmology seem to indicate an accelerated expansion of the Universe. On the one hand, this unexpected conclusion could be explained assuming the presence of the cosmological constant or invoking the existence of the Dark Energy. On the other hand, it is possible that the Einstein’s Theory of General Relativity could break down at certain scales and we have to resort to some alternative theory of the gravity called Modified Gravity. The main goal of this thesis is to use simulated Universe of Dark Matter to work out the distribution of Bardeen potential in a Modified Gravity model, namely f(R) gravity. In particular, we aim to compare this Modified Gravity model to the Lambda Cold Dark Matter model which remains the only model capable to better explain the dynamics of the Universe if we refer to the recent observational data. To this end, we use Poisson’s equation which relates the gravitational potential and density fluctuations in these two models. Results suggest that Fast Fourier Transform approach is the best method to solve for the gravitational potential, thanks to its accuracy and speed, and departure from Lambda Cold Dark Matter model is redshift dependent. Throughout this project, all models show that higher density perturbation corresponds to more negative gravitational potential contributing to an accelerated expansion of empty space. So far, although some Modified Gravity theories can be used to explain the late time acceleration of the expansion of the Universe, the Lambda Cold Dark Matter model namely the Einstein’s theory of General Relativity is still more preferred by recent observations such as Planck.
 
